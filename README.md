@@ -25,7 +25,7 @@
 
 <p align="center">
     <a alt="Penguinlay's GitHub Profile Trophies" href="https://github.com/Penguinlay" rel="noreferrer" target="_blank">
-        <img src="https://github-profile-trophy.vercel.app/?username=Penguinlay&theme=onedark">
+        <img src="https://github-profile-trophy.vercel.app/?username=Penguinlay&theme=onedark&column=4">
     </a>
 </p>
 
