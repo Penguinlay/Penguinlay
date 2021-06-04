@@ -3,11 +3,29 @@
 <h1 align="center">Hello, world!</h1>
 
 <!-- ####################################################################### -->
+<!-- Open Source Love -->
+
+<p align="center">
+    <a alt="Penguinlay loves Open Source." href="https://github.com/Penguinlay" rel="noreferrer" target="_blank">
+        <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103">
+    </a>
+</p>
+
+<!-- ####################################################################### -->
 <!-- GitHub Statistics -->
 
 <p align="center">
     <a alt="Penguinlay's GitHub Statistics" href="https://github.com/Penguinlay" rel="noreferrer" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=Penguinlay&show_icons=true&theme=tokyonight">
+        <img src="https://github-readme-stats.vercel.app/api?username=Penguinlay&show_icons=true&theme=onedark">
+    </a>
+</p>
+
+<!-- ####################################################################### -->
+<!-- GitHub Profile Trophies -->
+
+<p align="center">
+    <a alt="Penguinlay's GitHub Profile Trophies" href="https://github.com/Penguinlay" rel="noreferrer" target="_blank">
+        <img src="https://github-profile-trophy.vercel.app/?username=Penguinlay&theme=onedark">
     </a>
 </p>
 
