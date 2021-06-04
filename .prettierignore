@@ -1,0 +1,9 @@
+*.local
+.DS_Store
+.prettierignore
+dist
+dist-ssr
+LICENSE
+node_modules
+yarn-error.log
+yarn.lock

@@ -1,0 +1,14 @@
+{
+    "author": "Shein Lin Phyo <sheinlinphyo@gmail.com>",
+    "dependencies": {},
+    "description": "Special Repository for GitHub Public Profile",
+    "devDependencies": {
+        "prettier": "2.3.0"
+    },
+    "license": "AGPL-3.0-or-later",
+    "main": "index.ts",
+    "name": "penguinlay",
+    "private": true,
+    "repository": "git@github.com:Penguinlay/Penguinlay.git",
+    "version": "1.0.0"
+}
