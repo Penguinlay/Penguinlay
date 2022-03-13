@@ -14,5 +14,5 @@ jobs:
                   # Use this username's contribution graph
                   user_name: Penguinlay
                   # Text on contribution graph
-                  text: 🐼Shein🐧
+                  text: ~shein~
             - uses: jasineri/simple-push-action@v1
