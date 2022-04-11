@@ -4,10 +4,15 @@
 
 <!-- ####################################################################### -->
 
-<!-- Open Source Love -->
+<!-- Badges -->
 <p align="center">
-    <a alt="Penguinlay loves Open Source." href="https://github.com/Penguinlay" rel="noreferrer" target="_blank">
+    <!-- Open Source Love Badge -->
+    <a alt="Penguinlay loves open source." href="https://github.com/Penguinlay" rel="noreferrer" target="_blank">
         <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103">
+    </a>
+    <!-- GitHub Profile Metric Action Status Badge -->
+    <a alt="Penguinlay's GitHub Profile Metric Action Status Badge" href="https://github.com/Penguinlay" rel="noreferrer" target="_blank">
+        <img src="https://github.com/Penguinlay/Penguinlay/actions/workflows/metrics.yml/badge.svg">
     </a>
 </p>
 
@@ -48,5 +53,3 @@
 </p> -->
 
 <!-- ####################################################################### -->
-
-[![Metrics](https://github.com/Penguinlay/Penguinlay/actions/workflows/metrics.yml/badge.svg)](https://github.com/Penguinlay/Penguinlay/actions/workflows/metrics.yml)
