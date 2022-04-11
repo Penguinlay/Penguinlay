@@ -48,3 +48,5 @@
 </p> -->
 
 <!-- ####################################################################### -->
+
+[![Metrics](https://github.com/Penguinlay/Penguinlay/actions/workflows/metrics.yml/badge.svg)](https://github.com/Penguinlay/Penguinlay/actions/workflows/metrics.yml)
