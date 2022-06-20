@@ -48,12 +48,42 @@ jobs:
                   base_indepth: yes
                   commits_authoring: Penguinlay, sheinlinphyo@gmail.com, sheinlinphyo@berkeley.edu
                   extras_css: |
-                      h2 {
+                      h1.field, h2.field {
                           border-bottom: 1px solid #808080;
                           font-weight: 900;
-                          margin: 8px 0;
+                          margin: 12px 0;
                           padding-bottom: 4px;
                       }
+                      .achievements {
+                          align-content: center;
+                          align-items: center;
+                          border-radius: 10px;
+                          border: 1px solid #fff;
+                          display: flex;
+                          flex-flow: row wrap;
+                          justify-content: center;
+                          padding: 20px;
+                      }
+                      .achievement {
+                          background-color: rgb(41, 44, 51);
+                      }
+                      .topics {
+                          align-content: center;
+                          align-items: center;
+                          display: flex;
+                          flex-flow: row wrap;
+                          justify-content: center;
+                      }
+                      .tracklist-container {
+                          align-content: normal;
+                          align-items: center;
+                          display: flex;
+                          flex-flow: row nowrap;
+                          justify-content: center;
+                      }
+                  extras_js: |
+                      document.getElementsByClassName("achievements")[0].parentElement.parentElement.firstChild.remove();
+                      document.getElementsByClassName("tracklist")[0].parentElement.classList.add("tracklist-container");
                   repositories_affiliations: ""
                   repositories_batch: 100
                   repositories_forks: no
