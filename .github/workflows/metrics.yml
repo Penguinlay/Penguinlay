@@ -20,7 +20,7 @@ jobs:
                   config_display: regular
                   config_animations: yes
                   config_base64: yes
-                  config_padding: 0, 8 + 11%
+                  config_padding: 0, 8 + 4%
                   config_output: svg
                   retries: 3
                   retries_delay: 300
@@ -90,16 +90,16 @@ jobs:
                   plugin_music_user: ${{ secrets.SPOTIFY_USERNAME }}
 
                   plugin_pagespeed: yes
-                  plugin_pagespeed_url: https://www.sheinlinphyo.com
+                  plugin_pagespeed_url: https://www.sheinlinphyo.com/
                   plugin_pagespeed_detailed: yes
+                  plugin_pagespeed_screenshot: yes
+                  plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
 
                   plugin_screenshot: yes
                   plugin_screenshot_title: XKCD of the Day
                   plugin_screenshot_url: https://xkcd.com
                   plugin_screenshot_selector: "#comic img"
                   plugin_screenshot_background: yes
-                  plugin_pagespeed_screenshot: yes
-                  plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
 
                   plugin_topics: yes
                   plugin_topics_mode: icons
