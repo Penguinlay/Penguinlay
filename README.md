@@ -39,7 +39,7 @@
 <!-- GitHub Profile Metrics -->
 <p align="center">
     <a alt="Penguinlay's GitHub Profile Metrics" href="https://github.com/Penguinlay" rel="noreferrer" target="_blank">
-        <img src="/github-metrics.svg" width="100%">
+        <img src="data/images/metrics.svg" width="100%">
     </a>
 </p>
 
