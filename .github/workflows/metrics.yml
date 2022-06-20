@@ -57,15 +57,13 @@ jobs:
                       .achievements {
                           align-content: center;
                           align-items: center;
+                          background-color: rgb(41, 44, 51);
                           border-radius: 10px;
                           border: 1px solid #fff;
                           display: flex;
                           flex-flow: row wrap;
                           justify-content: center;
                           padding: 20px;
-                      }
-                      .achievement {
-                          background-color: rgb(41, 44, 51);
                       }
                       .topics {
                           align-content: center;
@@ -82,7 +80,6 @@ jobs:
                           justify-content: center;
                       }
                   extras_js: |
-                      document.getElementsByClassName("achievements")[0].parentElement.parentElement.firstChild.remove();
                       document.getElementsByClassName("tracklist")[0].parentElement.classList.add("tracklist-container");
                   repositories_affiliations: ""
                   repositories_batch: 100
