@@ -66,6 +66,7 @@ jobs:
                           background-color: rgb(41, 44, 51);
                           border-radius: 5px;
                           border: 1px solid #fff;
+                          padding-bottom: 7px;
                       }
                       .topics {
                           align-content: center;
