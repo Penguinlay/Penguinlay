@@ -98,7 +98,8 @@ jobs:
                   plugin_screenshot_url: https://xkcd.com
                   plugin_screenshot_selector: "#comic img"
                   plugin_screenshot_background: yes
-                  plugin_pagespeed_screenshot: no
+                  plugin_pagespeed_screenshot: yes
+                  plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
 
                   plugin_topics: yes
                   plugin_topics_mode: icons
