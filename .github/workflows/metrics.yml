@@ -57,13 +57,15 @@ jobs:
                       .achievements {
                           align-content: center;
                           align-items: center;
-                          background-color: rgb(41, 44, 51);
-                          border-radius: 10px;
-                          border: 1px solid #fff;
                           display: flex;
                           flex-flow: row wrap;
                           justify-content: center;
                           padding: 20px;
+                      }
+                      .achievement {
+                          background-color: rgb(41, 44, 51);
+                          border-radius: 5px;
+                          border: 1px solid #fff;
                       }
                       .topics {
                           align-content: center;
