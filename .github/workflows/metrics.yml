@@ -50,6 +50,7 @@ jobs:
                   extras_css: |
                       h1.field, h2.field {
                           border-bottom: 1px solid #808080;
+                          color: #777;
                           font-weight: 900;
                           margin: 12px 0;
                           padding-bottom: 4px;
