@@ -54,6 +54,9 @@ jobs:
                           margin: 12px 0;
                           padding-bottom: 4px;
                       }
+                      div.items-wrapper:first-child:first-child {
+                          display: none;
+                      }
                       .achievements {
                           align-content: center;
                           align-items: center;
