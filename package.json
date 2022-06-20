@@ -1,9 +1,8 @@
 {
     "author": "Shein Lin Phyo <sheinlinphyo@gmail.com>",
-    "dependencies": {},
     "description": "Special Repository for GitHub Public Profile",
     "devDependencies": {
-        "prettier": "2.5.1"
+        "prettier": "2.7.1"
     },
     "license": "AGPL-3.0-or-later",
     "name": "penguinlay",
