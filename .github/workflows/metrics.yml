@@ -20,7 +20,7 @@ jobs:
                   config_display: regular
                   config_animations: yes
                   config_base64: yes
-                  config_padding: 0, 8 + 4%
+                  config_padding: 0, 8
                   config_output: svg
                   retries: 3
                   retries_delay: 300
@@ -66,7 +66,7 @@ jobs:
                   plugin_habits_from: 1000
                   plugin_habits_days: 30
                   plugin_habits_facts: yes
-                  plugin_habits_charts: yes
+                  plugin_habits_charts: no
                   plugin_habits_charts_type: chartist
                   plugin_habits_trim: no
 
@@ -88,12 +88,6 @@ jobs:
                   plugin_music_time_range: short
                   plugin_music_top_type: tracks
                   plugin_music_user: ${{ secrets.SPOTIFY_USERNAME }}
-
-                  plugin_pagespeed: yes
-                  plugin_pagespeed_url: https://www.sheinlinphyo.com/
-                  plugin_pagespeed_detailed: yes
-                  plugin_pagespeed_screenshot: yes
-                  plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
 
                   plugin_screenshot: yes
                   plugin_screenshot_title: XKCD of the Day
