@@ -49,9 +49,10 @@ jobs:
                   commits_authoring: Penguinlay, sheinlinphyo@gmail.com, sheinlinphyo@berkeley.edu
                   extras_css: |
                       h2 {
-                          border-top: 3px solid #808080;
+                          border-bottom: 1px solid #808080;
                           font-weight: 900;
                           margin: 4px 0;
+                          padding-bottom: 4px;
                       }
                   repositories_affiliations: ""
                   repositories_batch: 100
