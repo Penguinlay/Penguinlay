@@ -55,7 +55,7 @@ jobs:
                           margin: 12px 0;
                           padding-bottom: 4px;
                       }
-                      div.items-wrapper:first-child > h2.field {
+                      .items-wrapper > section:first-child > h2 {
                           display: none;
                       }
                       .achievements {
@@ -69,9 +69,9 @@ jobs:
                       .achievement {
                           background-color: rgb(41, 44, 51);
                           border-radius: 5px;
-                          border: 1px solid #fff;
+                          border: 0.1px solid #fff;
                           margin: 0;
-                          padding-bottom: 7px;
+                          padding: 4px 4px 10px 4px;
                       }
                       .topics {
                           align-content: center;
