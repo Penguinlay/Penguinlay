@@ -14,6 +14,10 @@
     <a alt="Penguinlay's GitHub Profile Metric Action Status Badge" href="https://github.com/Penguinlay" rel="noreferrer" target="_blank">
         <img src="https://github.com/Penguinlay/Penguinlay/actions/workflows/metrics.yml/badge.svg">
     </a>
+    <!-- Murphy Security OSCS Status Badge -->
+    <a alt="Penguinlay's GitHub Profile Repository Murphy Security OSCS Status Badge" href="https://github.com/Penguinlay" rel="noreferrer" target="_blank">
+        <img src="https://www.oscs1024.com/platform/badge/Penguinlay/Penguinlay.svg?size=small">
+    </a>
 </p>
 
 <!-- ####################################################################### -->
