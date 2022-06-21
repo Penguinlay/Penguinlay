@@ -49,7 +49,7 @@ jobs:
                   commits_authoring: Penguinlay, sheinlinphyo@gmail.com, sheinlinphyo@berkeley.edu
                   extras_css: |
                       h1.field, h2.field {
-                          border-bottom: 1px solid #808080;
+                          border-bottom: 1px solid #777;
                           color: #777;
                           font-weight: 900;
                           margin: 12px 0;
@@ -69,7 +69,7 @@ jobs:
                       .achievement {
                           background-color: rgb(41, 44, 51);
                           border-radius: 5px;
-                          border: 0.1px solid #fff;
+                          border: 0.1px solid #777;
                           margin: 0;
                           padding: 4px 4px 10px 4px;
                       }
