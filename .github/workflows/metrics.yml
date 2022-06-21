@@ -87,6 +87,9 @@ jobs:
                           flex-flow: row nowrap;
                           justify-content: center;
                       }
+                      .tracklist-container > .field {
+                          color: #1DB954;
+                      }
                   extras_js: |
                       document.getElementsByClassName("tracklist")[0].parentElement.classList.add("tracklist-container");
                   repositories_affiliations: ""
