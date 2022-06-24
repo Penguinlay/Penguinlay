@@ -17,7 +17,7 @@ jobs:
                   config_octicon: yes
                   config_order: achievements, base.header, introduction, base.activity+community, base.repositories, topics, habits, isocalendar, music, screenshot, fortune
                   config_output: svg
-                  config_padding: 0, 8
+                  config_padding: 0, 8 + 4%
                   config_timezone: America/Los_Angeles
                   config_twemoji: yes
                   debug_flags: ""
