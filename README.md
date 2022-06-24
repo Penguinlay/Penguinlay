@@ -48,12 +48,3 @@
 </p>
 
 <!-- ####################################################################### -->
-
-<!-- Git Commit Artwork -->
-<!-- <p align="center">
-    <a alt="Penguinlay's GitHub Commit Artwork" href="https://github.com/Penguinlay" rel="noreferrer" target="_blank">
-        <img src="/gitartwork.svg" width="100%">
-    </a>
-</p> -->
-
-<!-- ####################################################################### -->
