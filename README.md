@@ -34,7 +34,7 @@
 <!-- GitHub Profile Trophies -->
 <p align="center">
     <a alt="Penguinlay's GitHub Profile Trophies" href="https://github.com/Penguinlay" rel="noreferrer" target="_blank">
-        <img src="https://github-profile-trophy.vercel.app/?username=Penguinlay&theme=gitdimmed&column=4&no-bg=true">
+        <img src="https://github-profile-trophy.vercel.app/?username=Penguinlay&theme=gitdimmed&column=4&no-bg=false">
     </a>
 </p>
 
