@@ -6,13 +6,13 @@
 
 <!-- Badges -->
 <p align="center">
-    <!-- Open Source Love Badge -->
-    <a alt="Penguinlay loves open source." href="https://github.com/Penguinlay" rel="noreferrer" target="_blank">
-        <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103">
-    </a>
     <!-- GitHub Profile Metric Action Status Badge -->
     <a alt="Penguinlay's GitHub Profile Metric Action Status Badge" href="https://github.com/Penguinlay" rel="noreferrer" target="_blank">
         <img src="https://github.com/Penguinlay/Penguinlay/actions/workflows/metrics.yml/badge.svg">
+    </a>
+    <!-- Open Source Love Badge -->
+    <a alt="Penguinlay loves open source." href="https://github.com/Penguinlay" rel="noreferrer" target="_blank">
+        <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103">
     </a>
     <!-- Murphy Security OSCS Status Badge -->
     <a alt="Penguinlay's GitHub Profile Repository Murphy Security OSCS Status Badge" href="https://github.com/Penguinlay" rel="noreferrer" target="_blank">
