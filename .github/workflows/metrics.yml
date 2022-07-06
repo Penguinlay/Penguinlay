@@ -58,24 +58,24 @@ jobs:
                       .items-wrapper > section:first-child > h2 {
                           display: none;
                       }
-                      # .achievements {
-                      #     align-content: center;
-                      #     align-items: center;
-                      #     display: flex;
-                      #     flex-flow: row wrap;
-                      #     justify-content: center;
-                      #     padding: 20px;
-                      # }
-                      # .achievement {
-                      #     background-color: rgb(41, 44, 51);
-                      #     border-radius: 5px;
-                      #     border: 0.1px solid #777;
-                      #     margin: 0;
-                      #     padding: 4px 4px 10px 4px;
-                      # }
-                      # .achievement .value-wrapper {
-                      #     position: static;
-                      # }
+                      .achievements {
+                          align-content: center;
+                          align-items: center;
+                          display: flex;
+                          flex-flow: row wrap;
+                          justify-content: center;
+                          padding: 20px;
+                      }
+                      .achievement {
+                          background-color: rgb(41, 44, 51);
+                          border-radius: 5px;
+                          border: 0.1px solid #777;
+                          margin: 0;
+                          padding: 4px 4px 10px 4px;
+                      }
+                      .achievement .value-wrapper {
+                          position: static;
+                      }
                       .topics {
                           align-content: center;
                           align-items: center;
