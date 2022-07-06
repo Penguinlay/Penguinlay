@@ -7,7 +7,7 @@ jobs:
     github-metrics:
         runs-on: ubuntu-latest
         steps:
-            - uses: Penguinlay/metrics@master
+            - uses: Penguinlay/fork-lowlighter-metrics@master
               with:
                   clean_workflows: all
                   config_animations: yes
